@@ -1,0 +1,15 @@
+package com.campusdinga.location;
+
+public enum Category {
+    LECTURE_HALL,
+    ACADEMIC_DEPARTMENT,
+    ADMINISTRATIVE_OFFICE,
+    LIBRARY,
+    COMPUTER_LAB,
+    FOOD_AND_MESS,
+    STUDENT_SERVICES,
+    HEALTH_FACILITY,
+    HOSTEL,
+    PRINTING_AND_STATIONERY,
+    OTHER
+}
